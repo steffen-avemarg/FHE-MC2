@@ -19,11 +19,8 @@ public class NetworkController
 
     private static AsyncHttpClient client = new AsyncHttpClient();
 
-
     public static void getDivisions( RequestParams params, AsyncHttpResponseHandler responseHandler )
     {
         client.get( BASE_URL + "/divisions", params, responseHandler );
     }
-
-
 }

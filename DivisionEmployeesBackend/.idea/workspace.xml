@@ -2,33 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad12bcfc-f1b8-4fea-9a04-a5876a98b855" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/DivisionEmployeesAndroidApp.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/src/de/fhe/ai/pmc/divemp/control/NetworkController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/.idea/libraries/android_async_http_1_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/res/layout/list_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DivisionEmployeesBackend.iml" afterPath="$PROJECT_DIR$/DivisionEmployeesBackend.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/web_war_exploded.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DivisionEmployeesBackend.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ad12bcfc-f1b8-4fea-9a04-a5876a98b855" time="1385555909187" ignored="false" />
+    <file path="/Dummy.txt" changelist="ad12bcfc-f1b8-4fea-9a04-a5876a98b855" time="1385563235819" ignored="false" />
     <file path="/web.xml" changelist="ad12bcfc-f1b8-4fea-9a04-a5876a98b855" time="1385550605607" ignored="false" />
     <file path="/ProjectRootResource.java" changelist="ad12bcfc-f1b8-4fea-9a04-a5876a98b855" time="1385550961724" ignored="false" />
     <file path="/IllegalArgumentExceptionMapper.java" changelist="ad12bcfc-f1b8-4fea-9a04-a5876a98b855" time="1385551124097" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="ad12bcfc-f1b8-4fea-9a04-a5876a98b855" time="1385552889994" ignored="false" />
     <file path="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/res/values/strings.xml" changelist="ad12bcfc-f1b8-4fea-9a04-a5876a98b855" time="1385555388208" ignored="false" />
     <file path="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/AndroidManifest.xml" changelist="ad12bcfc-f1b8-4fea-9a04-a5876a98b855" time="1385555506608" ignored="false" />
     <file path="$PROJECT_DIR$/../DivisionEmployeesAndroidApp/res/layout/main.xml" changelist="ad12bcfc-f1b8-4fea-9a04-a5876a98b855" time="1385555555458" ignored="false" />
@@ -101,20 +84,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DatabaseWrapper.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="DatabaseWrapper.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/de/fhe/ai/pmc/model/DatabaseWrapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="32" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
+            <state line="18" column="45" selection-start="450" selection-end="450" vertical-scroll-proportion="0.4373928">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tmpRestClientResponse5226101355596239385.json" pinned="false" current="true" current-in-tab="true">
-        <entry file="file:///private/var/folders/_1/hs95ygd55h74fch0511bb3y80000gp/T/tmpRestClientResponse5226101355596239385.json">
+      <file leaf-file-name="ProjectRootResource.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/de/fhe/ai/pmc/resources/ProjectRootResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="56" selection-start="329" selection-end="329" vertical-scroll-proportion="0.24940617">
-              <folding />
+            <state line="16" column="13" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -141,6 +126,7 @@
         <option value="$PROJECT_DIR$/src/de/fhe/ai/pmc/resources/ProjectRootResource.java" />
         <option value="$PROJECT_DIR$/src/de/fhe/ai/pmc/provider/IllegalArgumentExceptionMapper.java" />
         <option value="/private/var/folders/_1/hs95ygd55h74fch0511bb3y80000gp/T/tmpRestClientResponse5226101355596239385.json" />
+        <option value="/private/var/folders/_1/hs95ygd55h74fch0511bb3y80000gp/T/tmpRestClientResponse1731689025449506646.json" />
       </list>
     </option>
   </component>
@@ -152,10 +138,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-241" />
-    <option name="y" value="-1000" />
-    <option name="width" value="1276" />
-    <option name="height" value="920" />
+    <option name="x" value="-201" />
+    <option name="y" value="-1044" />
+    <option name="width" value="1349" />
+    <option name="height" value="1031" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -198,20 +184,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="DivisionEmployeesBackend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DivisionEmployeesBackend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DivisionEmployeesBackend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -323,13 +295,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -343,8 +315,8 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -375,19 +347,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -414,6 +373,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -578,11 +550,31 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-241" y="-1000" width="1276" height="920" extended-state="0" />
-    <editor active="true" />
+    <frame x="-201" y="-1044" width="1349" height="1031" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -593,15 +585,15 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43907794" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32930845" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24634147" sideWeight="0.59125" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32821077" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33768228" sideWeight="0.67069155" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3798024" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -682,6 +674,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/de/fhe/ai/pmc/resources/ProjectRootResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="13" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/de/fhe/ai/pmc/model/DatabaseWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/de/fhe/ai/pmc/model/InfoMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="13" selection-start="225" selection-end="225" vertical-scroll-proportion="0.12254902">
@@ -697,10 +705,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
         <state />
       </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
         <state />
       </provider>
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
@@ -721,13 +729,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/fhe/ai/pmc/resources/ProjectRootResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="16" selection-start="366" selection-end="366" vertical-scroll-proportion="0.4347826">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/de/fhe/ai/pmc/test/DataModelTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="32" selection-start="166" selection-end="174" vertical-scroll-proportion="0.19607843">
@@ -735,16 +736,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/fhe/ai/pmc/model/DatabaseWrapper.java">
+    <entry file="file:///private/var/folders/_1/hs95ygd55h74fch0511bb3y80000gp/T/tmpRestClientResponse5226101355596239385.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="32" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
+        <state line="26" column="31" selection-start="669" selection-end="669" vertical-scroll-proportion="0.421123" />
+      </provider>
+    </entry>
+    <entry file="file:///private/var/folders/_1/hs95ygd55h74fch0511bb3y80000gp/T/tmpRestClientResponse1731689025449506646.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="33" selection-start="448" selection-end="448" vertical-scroll-proportion="0.52287585">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///private/var/folders/_1/hs95ygd55h74fch0511bb3y80000gp/T/tmpRestClientResponse5226101355596239385.json">
+    <entry file="file://$PROJECT_DIR$/src/de/fhe/ai/pmc/resources/ProjectRootResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="56" selection-start="329" selection-end="329" vertical-scroll-proportion="0.24940617">
+        <state line="16" column="13" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/de/fhe/ai/pmc/model/DatabaseWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="45" selection-start="450" selection-end="450" vertical-scroll-proportion="0.4373928">
           <folding />
         </state>
       </provider>
